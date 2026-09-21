@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores Base de la App -->
+    <color name="primary">#1A237E</color>
+    <color name="primary_dark">#0D1442</color>
+    <color name="accent">#FF6F00</color>
+    <color name="background">#F5F5F7</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Estados y Utilitarios -->
+    <color name="text_secondary">#6E6E6E</color>
+    <color name="error">#D32F2F</color>
+    <color name="success">#2E7D32</color>
+    <color name="chip_selected">#1A237E</color>
+    <color name="chip_unselected">#E0E0E0</color>
+
+    <!-- Paleta de Colores Anteriores -->
+    <color name="primary_blue">#5B7FFF</color>
+
+    <!-- Paleta Verde (Pantalla de Login y Catálogo) -->
+    <color name="primary_green">#2E7D32</color>          <!-- Verde principal para botones, Toolbar y cardLogo -->
+    <color name="login_background">#F1F8E9</color>       <!-- Fondo verde claro suave -->
+    <color name="card_background">#FFFFFF</color>        <!-- Fondo blanco para la tarjeta -->
+    <color name="input_box_background">#E8F5E9</color>   <!-- Fondo de las cajas de texto y chips inactivos -->
+    <color name="icon_tint">#388E3C</color>              <!-- Iconos internos -->
+
+    <!-- Textos generales y de Login -->
+    <color name="text_primary">#1B5E20</color>           <!-- Texto principal en verde oscuro -->
+    <color name="text_hint">#558B2F</color>              <!-- Etiquetas y sugerencias -->
+    <color name="button_text_white">#FFFFFF</color>      <!-- Texto en botones -->
+
+    <!-- Tarjetas del Catálogo de Productos -->
+    <color name="product_card_bg">#FFFFFF</color>
+    <color name="product_card_bg_light">#E8F5E9</color>  <!-- Fondo verde menta suave para las tarjetas -->
+    <color name="product_title_color">#1B5E20</color>    <!-- Título del producto en verde oscuro -->
+    <color name="product_price_color">#2E7D32</color>    <!-- Precio del producto en verde legibilidad alta -->
+</resources>
